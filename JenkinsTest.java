@@ -1,6 +1,6 @@
 public class JenkinsTest{
 	public static void main(String[] args){
-		print(args[1]);
+		System.out.println(args[1]);
 	}
 }
 
